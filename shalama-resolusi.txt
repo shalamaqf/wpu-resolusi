@@ -3,5 +3,5 @@ Assalamualaikum, halo, pak Sandhika. Salam kenal saya Shalama dari Cimahi. Saya 
 Resolusi saya :
 - menguasai OOP Java, Git & Github, Database, API, dan banyak lagi.
 - membuat project-project untuk dijadikan portofolio.
-- bisa menemukan minat di ilmu programming dan mendalaminya.
+- bisa menemukan minat (backend, frontend, web developer, game developer, dll) di ilmu programming dan mendalaminya.
 - bisa bekerja di start-up.
